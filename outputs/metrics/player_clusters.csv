@@ -1,0 +1,138 @@
+batsman,total_runs,balls_faced,fours,sixes,matches_played,strike_rate,avg_runs_per_match,cluster,player_type
+A Ashish Reddy,280,196,16,15,23,142.86,12.17,2,Consistent Scorers
+A Mishra,340,382,27,5,49,89.01,6.94,0,Power Hitters
+A Symonds,974,781,74,41,36,124.71,27.06,3,Finishers
+AB de Villiers,3486,2402,287,158,118,145.13,29.54,1,Anchors
+AC Gilchrist,2069,1555,239,92,80,133.05,25.86,3,Finishers
+AD Mathews,724,599,44,29,41,120.87,17.66,2,Consistent Scorers
+AD Russell,574,350,48,37,25,164.0,22.96,2,Consistent Scorers
+AJ Finch,1604,1270,170,59,64,126.3,25.06,3,Finishers
+AL Menaria,401,367,24,18,23,109.26,17.43,0,Power Hitters
+AM Nayar,672,588,55,20,50,114.29,13.44,2,Consistent Scorers
+AM Rahane,3057,2602,320,60,105,117.49,29.11,3,Finishers
+AP Tare,339,285,40,11,27,118.95,12.56,2,Consistent Scorers
+AR Patel,606,494,34,28,42,122.67,14.43,2,Consistent Scorers
+AT Rayudu,2416,1964,205,79,105,123.01,23.01,3,Finishers
+Azhar Mahmood,388,311,39,13,21,124.76,18.48,2,Consistent Scorers
+B Chipli,280,256,28,7,21,109.38,13.33,0,Power Hitters
+B Kumar,158,160,15,3,33,98.75,4.79,0,Power Hitters
+BB McCullum,2755,2181,277,124,103,126.32,26.75,1,Anchors
+BJ Hodge,1400,1153,122,43,63,121.42,22.22,3,Finishers
+CA Pujara,390,403,50,4,22,96.77,17.73,0,Power Hitters
+CH Gayle,3651,2532,297,266,100,144.19,36.51,1,Anchors
+CH Morris,439,275,33,23,28,159.64,15.68,2,Consistent Scorers
+CJ Anderson,521,414,40,30,26,125.85,20.04,2,Consistent Scorers
+CL White,971,774,76,38,45,125.45,21.58,3,Finishers
+DA Miller,1563,1135,104,78,64,137.71,24.42,3,Finishers
+DA Warner,4014,2902,401,160,114,138.32,35.21,1,Anchors
+DB Das,304,267,23,16,22,113.86,13.82,2,Consistent Scorers
+DB Ravi Teja,375,325,35,9,25,115.38,15.0,2,Consistent Scorers
+DJ Bravo,1262,1032,102,48,81,122.29,15.58,2,Consistent Scorers
+DJ Hooda,373,277,20,20,30,134.66,12.43,2,Consistent Scorers
+DJ Hussey,1322,1101,90,60,61,120.07,21.67,3,Finishers
+DJG Sammy,295,251,15,18,20,117.53,14.75,2,Consistent Scorers
+DPMD Jayawardene,1808,1522,200,40,78,118.79,23.18,3,Finishers
+DR Smith,2385,1803,245,117,88,132.28,27.1,1,Anchors
+DT Christian,420,351,22,18,31,119.66,13.55,2,Consistent Scorers
+DW Steyn,166,161,14,3,32,103.11,5.19,0,Power Hitters
+EJG Morgan,854,725,72,34,45,117.79,18.98,2,Consistent Scorers
+F du Plessis,1295,1043,110,38,46,124.16,28.15,3,Finishers
+G Gambhir,4132,3433,484,58,146,120.36,28.3,1,Anchors
+GC Smith,739,691,94,9,29,106.95,25.48,3,Finishers
+GH Vihari,280,323,23,1,21,86.69,13.33,0,Power Hitters
+GJ Bailey,663,552,59,19,36,120.11,18.42,2,Consistent Scorers
+GJ Maxwell,1229,780,96,82,55,157.56,22.35,2,Consistent Scorers
+Gurkeerat Singh,342,280,36,9,24,122.14,14.25,2,Consistent Scorers
+HH Gibbs,886,837,83,31,36,105.85,24.61,3,Finishers
+HH Pandya,406,306,24,28,33,132.68,12.3,2,Consistent Scorers
+Harbhajan Singh,799,591,76,41,82,135.19,9.74,2,Consistent Scorers
+IK Pathan,1150,985,88,38,82,116.75,14.02,2,Consistent Scorers
+J Botha,409,364,39,5,28,112.36,14.61,0,Power Hitters
+JA Morkel,975,712,61,55,67,136.94,14.55,2,Consistent Scorers
+JC Buttler,528,375,50,26,24,140.8,22.0,2,Consistent Scorers
+JD Ryder,604,466,69,19,29,129.61,20.83,2,Consistent Scorers
+JH Kallis,2427,2291,255,44,95,105.94,25.55,3,Finishers
+JP Duminy,1993,1634,123,78,73,121.97,27.3,3,Finishers
+JP Faulkner,527,406,36,23,45,129.8,11.71,2,Consistent Scorers
+KA Pollard,2354,1674,158,148,112,140.62,21.02,1,Anchors
+KC Sangakkara,1687,1424,195,27,68,118.47,24.81,3,Finishers
+KD Karthik,2903,2360,286,71,134,123.01,21.66,3,Finishers
+KK Nair,1158,929,135,26,50,124.65,23.16,3,Finishers
+KL Rahul,725,592,61,24,30,122.47,24.17,3,Finishers
+KM Jadhav,893,684,72,33,57,130.56,15.67,2,Consistent Scorers
+KP Pietersen,1001,758,91,40,36,132.06,27.81,3,Finishers
+KV Sharma,317,285,18,14,34,111.23,9.32,0,Power Hitters
+LMP Simmons,1079,878,109,44,29,122.89,37.21,3,Finishers
+LR Shukla,405,358,33,16,33,113.13,12.27,0,Power Hitters
+LRPL Taylor,1017,847,66,46,54,120.07,18.83,3,Finishers
+M Kaif,259,258,22,6,22,100.39,11.77,0,Power Hitters
+M Manhas,514,486,43,10,38,105.76,13.53,0,Power Hitters
+M Morkel,126,93,11,5,20,135.48,6.3,2,Consistent Scorers
+M Vijay,2511,2092,237,89,99,120.03,25.36,3,Finishers
+M Vohra,957,750,95,35,41,127.6,23.34,3,Finishers
+MA Agarwal,814,692,82,33,48,117.63,16.96,2,Consistent Scorers
+MC Henriques,969,769,87,27,50,126.01,19.38,2,Consistent Scorers
+MEK Hussey,1977,1648,198,52,58,119.96,34.09,3,Finishers
+MG Johnson,151,157,8,7,26,96.18,5.81,0,Power Hitters
+MK Pandey,2223,1901,197,65,95,116.94,23.4,3,Finishers
+MK Tiwary,1648,1444,152,39,79,114.13,20.86,3,Finishers
+ML Hayden,1107,839,121,44,32,131.94,34.59,3,Finishers
+MM Sharma,112,104,8,4,20,107.69,5.6,0,Power Hitters
+MS Bisla,798,737,93,23,39,108.28,20.46,3,Finishers
+MS Dhoni,3560,2680,251,156,143,132.84,24.9,1,Anchors
+MV Boucher,394,318,32,13,23,123.9,17.13,2,Consistent Scorers
+Mandeep Singh,1112,938,134,18,58,118.55,19.17,2,Consistent Scorers
+NLTC Perera,424,326,23,26,30,130.06,14.13,2,Consistent Scorers
+NV Ojha,1553,1356,121,79,93,114.53,16.7,3,Finishers
+OA Shah,506,405,34,23,22,124.94,23.0,2,Consistent Scorers
+P Kumar,340,323,22,17,57,105.26,5.96,0,Power Hitters
+P Negi,353,284,26,16,29,124.3,12.17,2,Consistent Scorers
+PA Patel,2322,2060,297,35,116,112.72,20.02,3,Finishers
+PC Valthaty,505,432,61,20,23,116.9,21.96,2,Consistent Scorers
+PP Chawla,515,467,49,15,65,110.28,7.92,0,Power Hitters
+Q de Kock,726,566,90,21,26,128.27,27.92,3,Finishers
+R Ashwin,231,246,22,2,36,93.9,6.42,0,Power Hitters
+R Bhatia,342,290,24,13,47,117.93,7.28,0,Power Hitters
+R Dravid,2174,1918,269,28,82,113.35,26.51,3,Finishers
+R Sathish,270,236,22,6,24,114.41,11.25,0,Power Hitters
+R Vinay Kumar,304,285,20,9,41,106.67,7.41,0,Power Hitters
+RA Jadeja,1732,1458,125,57,108,118.79,16.04,3,Finishers
+RG Sharma,4207,3274,354,173,153,128.5,27.5,1,Anchors
+RJ Harris,117,112,6,3,21,104.46,5.57,0,Power Hitters
+RN ten Doeschate,326,238,26,15,21,136.97,15.52,2,Consistent Scorers
+RP Singh,52,78,2,1,28,66.67,1.86,0,Power Hitters
+RR Pant,564,381,47,30,24,148.03,23.5,2,Consistent Scorers
+RS Bopara,531,468,39,16,22,113.46,24.14,3,Finishers
+RV Uthappa,3778,2960,377,125,143,127.64,26.42,1,Anchors
+S Badrinath,1441,1245,154,28,65,115.74,22.17,3,Finishers
+S Dhawan,3561,3005,401,71,126,118.5,28.26,1,Anchors
+S Sohal,368,311,34,18,20,118.33,18.4,2,Consistent Scorers
+SA Yadav,608,479,54,21,42,126.93,14.48,2,Consistent Scorers
+SC Ganguly,1349,1326,137,42,56,101.73,24.09,3,Finishers
+SE Marsh,2489,1913,269,78,69,130.11,36.07,1,Anchors
+SK Raina,4548,3369,402,174,157,135.0,28.97,1,Anchors
+SK Warne,198,219,14,6,27,90.41,7.33,0,Power Hitters
+SL Malinga,88,103,6,5,20,85.44,4.4,0,Power Hitters
+SP Narine,271,193,36,12,30,140.41,9.03,2,Consistent Scorers
+SPD Smith,1713,1333,151,45,62,128.51,27.63,3,Finishers
+SR Tendulkar,2333,2043,296,29,78,114.19,29.91,3,Finishers
+SR Watson,2628,1949,258,122,98,134.84,26.82,1,Anchors
+SS Iyer,807,655,79,32,32,123.21,25.22,3,Finishers
+SS Tiwary,1276,1111,93,45,64,114.85,19.94,3,Finishers
+ST Jayasuriya,768,573,84,39,30,134.03,25.6,3,Finishers
+STR Binny,766,619,59,29,56,123.75,13.68,2,Consistent Scorers
+SV Samson,1426,1165,112,57,62,122.4,23.0,3,Finishers
+Shakib Al Hasan,500,401,44,15,32,124.69,15.62,2,Consistent Scorers
+TL Suman,676,587,55,26,39,115.16,17.33,2,Consistent Scorers
+TM Dilshan,1153,1047,140,24,50,110.12,23.06,3,Finishers
+UBT Chand,300,314,32,9,20,95.54,15.0,0,Power Hitters
+UT Yadav,94,95,8,3,23,98.95,4.09,0,Power Hitters
+V Kohli,4423,3494,384,160,141,126.59,31.37,1,Anchors
+V Sehwag,2728,1833,334,106,104,148.83,26.23,1,Anchors
+VVS Laxman,282,271,33,5,20,104.06,14.1,0,Power Hitters
+WP Saha,1557,1219,130,57,78,127.73,19.96,3,Finishers
+Y Nagar,285,271,20,9,20,105.17,14.25,0,Power Hitters
+Y Venugopal Rao,985,865,77,37,52,113.87,18.94,3,Finishers
+YK Pathan,2922,2076,240,149,133,140.75,21.97,1,Anchors
+Yuvraj Singh,2591,2050,205,141,116,126.39,22.34,1,Anchors
+Z Khan,117,141,11,2,27,82.98,4.33,0,Power Hitters
