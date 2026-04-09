@@ -19,4 +19,4 @@ To analyze IPL (Indian Premier League) historical match and ball-by-ball data to
 
 ## Tentative Methodology
 - Tools: Python (pandas, sklearn, matplotlib, seaborn), Power BI
-- ML: Random Forest Classifier for win prediction, K-Means for player clustering
+- ML: Random Forest Classifier for win prediction, K-Means for player clustering.
