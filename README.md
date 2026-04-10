@@ -20,14 +20,17 @@ To analyze IPL (Indian Premier League) historical match and ball-by-ball data to
 - 4 distinct player profiles identified: Power Hitters, Anchors, Consistent Scorers, Finishers
 - Virat Kohli and David Warner dominate the "Consistent Scorer" cluster
 
-## Repository Structure
+## 📁 Repository Structure
+
+```
 ipl-datathon/
-├── notebooks/         → Jupyter notebooks for each phase
-├── data/              → Raw and processed CSV files
-├── outputs/           → Charts (PNG) and model metrics (CSV)
-├── dashboard/         → Power BI .pbix file
-├── report/            → Final report
-└── src/               → Standalone Python model script
+├── 📓 notebooks/       → Jupyter notebooks for each phase
+├── 📊 data/            → Raw and processed CSV files
+├── 📤 outputs/         → Charts (PNG) and model metrics (CSV)
+├── 📊 dashboard/       → Power BI .pbix file
+├── 📝 report/          → Final report
+└── 🐍 src/             → Standalone Python model script
+```
 
 ## How to Reproduce
 1. Clone this repo
