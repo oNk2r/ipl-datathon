@@ -42,4 +42,4 @@ ipl-datathon/
 
 ## Tentative Methodology
 - Tools: Python (pandas, sklearn, matplotlib, seaborn), Power BI
-- ML: Random Forest Classifier for win prediction, K-Means for player clustering
+- ML: Random Forest Classifier for win prediction, K-Means for player clustering.
