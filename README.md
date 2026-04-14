@@ -1,4 +1,4 @@
-# IPL Player Performance Analytics — Datathon Project
+# IPL Teams and Players Performance Analytics — Datathon Project
 
 ## Team Details
 | Name | Roll No | Role |
