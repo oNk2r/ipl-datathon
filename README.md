@@ -1,6 +1,6 @@
 # IPL Teams and Players Performance Analytics — Datathon Project
 
-## Team Details
+## Team Details(ECM)
 | Name | Roll No | Role |
 |------|---------|------|
 | Dhruv | 57 | Data Wrangler & Model Developer |
